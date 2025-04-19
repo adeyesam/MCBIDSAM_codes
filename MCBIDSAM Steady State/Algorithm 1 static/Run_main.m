@@ -121,4 +121,4 @@ for i=1:ndes
 end
 
 %% Save solution workspace
-save('solution_workspaceC','N','AICcve','Amat','Cmat','Amatc','Cmatc','Objfunc','est_sel','idOb','Lmat','wmat','mnd','mxd','umax','umin','Ntrans','Obtrnd','i_UiUj','iUY')
+save('solution_workspaceC','N','AICcve','Cmat','Cmatc','Objfunc','est_sel','idOb','Lmat','wmat','mnd','mxd','umax','umin','Ntrans','Obtrnd','i_UiUj','iUY')
